@@ -1,0 +1,5 @@
+/* Gunakan external CSS (dengan setting font 18 pixel dan warna biru) pada paragraf */
+p {
+  font-size: 18px;
+  color: blue;
+}
